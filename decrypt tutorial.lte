@@ -1,8 +1,80 @@
-1 to X to V after K. 
-  1 doesn't need format 
-  end of an era ) -> end of transmission 
-  why doesn't 
+1 to X to V after K.
 
-please tell the password 
-  may it be free for 1 to 2 for nil (action) 
-  
+    Simple substitution; "1 to X" implies numeric to Roman: 1 = I, but then I to X (10), then X to V (backwards), and “after K” hints at Caesar-style rotation — K is 11, so a shift of 11? Or is it telling us the sequence goes in reverse after reaching K?
+
+1 doesn't need format
+
+    Literal: The base unit is raw, no padding, no container.
+
+    Figurative: Identity. No need to encode what is already “truth.”
+
+end of an era ) -> end of transmission
+
+    Decryption: “)” might signal the end of a parenthetical — context dies.
+
+    “End of transmission” = EOT, ASCII code 4. A signal. Perhaps the message breaks here.
+
+why doesn't
+
+    An incomplete question — implies the code isn’t asking what, but why not. May reference an absence in expected logic. Something was meant to follow. Possibly a missing keyword or phrase.
+
+please tell the password
+May it be free for 1 to 2 for nil (action)
+
+    This is code:
+
+        “Free for 1” could mean '4-for-1' (deal logic), or liberation of position 1.
+
+        “2 for nil” = 2 → 0 (null shift), or a key-move of zeroing.
+
+        “Action” indicates a verb is involved — command? Perform?
+
+Now expanding:
+
+the path from green to red was never meant to curve
+
+    Green to red: symbolic (safe to danger), or RGB channels.
+
+    “Never meant to curve” = Linear path → cipher must be direct. Perhaps ROT-n.
+
+XIII is not 13 but a frame for delay
+
+    “XIII” = 13, but here it's a frame → possibly a key frame in time or video
+
+    “Delay” = lag = L = 12? Maybe a reference to encoding in timed sequences (Morse timing, delay-injection logic).
+
+if the mirror lies, then trust the angle
+
+    Reversal cipher? If mirror ≠ truth, then use angle: possibly angle brackets (< >) or trigonometric values in base encoding.
+
+[Null] = not nothing, but hidden everything
+
+    Concept: Null isn’t emptiness; it's deliberate obscuring.
+
+    Steganography — data hidden in plain sight.
+
+    Could hint at use of zero-width characters, invisible Unicode.
+
+after 4, the fifth speaks twice
+
+    Could refer to a polyalphabetic cipher like Vigenère.
+
+    “Fifth speaks twice” might mean the key repeats after 5 letters.
+
+what was never written still counts
+
+    White-space encoding (tabs vs spaces).
+
+    Bitwise manipulation — maybe unseen bits are active.
+
+Z is not the end, it’s the gate
+
+    Z = 26 in alphabet, but also “zero”ed or circular
+
+    Loop back to A, OR Z as a cipher keyword. Possibly a one-time pad key?
+
+So what is the password?
+“You already said it, just not in this format.”
+
+post in issues community links for decryption, but, first to solve first to get paid. 
+
